@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Portfolio using NextJS
 - 🌱 I’m currently learning web3
 - 🤔 I’m looking for open sources where i can contribute
 - 💬 Ask me about blockchain  or anything related
